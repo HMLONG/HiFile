@@ -1,16 +1,19 @@
 # HiFile
 A software that supports visual viewing of files under MAC
 
-Features：
+Features
 =======
-Based on MACFightLight, BreadcrumbNavigation and WDBubble
-Scan files quickly
-Supports visual viewing of files under MAC
-Remove junk files immediately
-Supports multiple colors of skin
-Support breadcrumb navigation
+Based on MACFightLight, BreadcrumbNavigation and WDBubble<br>
+Scan files quickly<br>
+Supports visual viewing of files under MAC<br>
+Remove junk files immediately<br>
+Supports multiple colors of skin<br>
+Support breadcrumb navigation<br>
 
-Contributing：
-=======
 Contributing
+=======
 Any feedback/contribution is appreciated!
+
+Contact
+=======
+longhaiming000@163.com
