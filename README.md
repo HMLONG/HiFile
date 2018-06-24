@@ -9,6 +9,7 @@ Supports visual viewing of files under MAC<br>
 Remove junk files immediately<br>
 Supports multiple colors of skin<br>
 Support breadcrumb navigation<br>
+![Alt text](https://github.com/HMLONG/HiFile/raw/master/Screenshots/UI.png)
 
 Contributing
 =======
