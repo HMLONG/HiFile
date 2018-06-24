@@ -2,6 +2,7 @@
 A software that supports visual viewing of files under MAC
 
 Features
+
 Based on MACFightLight, BreadcrumbNavigation and WDBubble
 Scan files quickly
 Supports visual viewing of files under MAC
